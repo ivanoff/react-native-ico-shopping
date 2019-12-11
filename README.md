@@ -14,9 +14,9 @@ import Icon from 'react-native-ico-shopping';
 render() {
     return (
         <>
-          <Icon name="home" />
-          <Icon name="file" height="40" width="40" />
-          <Icon name="smile" color="red" />
+          <Icon name="chat" />
+          <Icon name="money-1" height="40" width="40" />
+          <Icon name="invoice" color="red" />
         </>
     );
 }
