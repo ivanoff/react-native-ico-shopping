@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of Shopping Icons](static/shopping.md)
+- [List of Shopping Icons](http://ico.simpleness.org/pack/shopping)
 
 ## Installation
 
