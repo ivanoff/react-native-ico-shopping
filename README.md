@@ -1,8 +1,8 @@
-# Shopping Icons for React Native
+# shopping Icons for React Native
 
 ### react-native-ico-shopping
 
-288 Icons
+369 Icons
 
 ## Usage
 
@@ -14,9 +14,9 @@ import Icon from 'react-native-ico-shopping';
 render() {
     return (
         <>
-          <Icon name="chat" />
-          <Icon name="money-1" height="40" width="40" />
-          <Icon name="invoice" color="red" />
+          <Icon name="home" />
+          <Icon name="file" height="40" width="40" />
+          <Icon name="smile" color="red" />
         </>
     );
 }
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of Shopping Icons](http://ico.simpleness.org/pack/shopping)
+- [List of shopping Icons](http://ico.simpleness.org/pack/shopping)
 
 ## Installation
 
@@ -69,7 +69,7 @@ height | yes | 20 | height of the icon | 40
 
 ## Icons Made by
 
-[Kiranshastry](https://www.flaticon.com/authors/kiranshastry)
+[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
 
 ## Created by
 
