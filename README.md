@@ -14,9 +14,9 @@ import Icon from 'react-native-ico-shopping';
 render() {
     return (
         <>
-          <Icon name="home" />
-          <Icon name="file" height="40" width="40" />
-          <Icon name="smile" color="red" />
+          <Icon name="004-invoice" />
+          <Icon name="005-shopping-cart" height="40" width="40" />
+          <Icon name="006-shopping-cart-1" color="red" />
         </>
     );
 }
@@ -61,7 +61,7 @@ Returns a SvgXml icon by name and group.
 
  name | optional | default value | description | examples
 ------|----------|---------------|-------------|---------
-name | no |  | name of file | "home"
+name | no |  | name of file | "004-invoice"
 color | yes | | line color, css style | "#00ff00", "#0f0", "green"
 width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
