@@ -1,8 +1,8 @@
-# shopping Icons for React Native
+# Shopping Icons for React Native
 
 ### react-native-ico-shopping
 
-369 Icons
+288 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of shopping Icons](http://ico.simpleness.org/pack/shopping)
+- [List of Shopping Icons](http://ico.simpleness.org/pack/shopping)
 
 ## Installation
 
