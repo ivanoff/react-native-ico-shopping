@@ -1,5 +1,6 @@
 declare module 'react-native-ico-shopping' {
     import { ReactNode } from 'react';
+    import { SvgProps, AdditionalProps } from 'react-native-svg';
 
     type iconNames = 'shopping-bag' |
       'shopping-bag-1' |
@@ -321,7 +322,7 @@ declare module 'react-native-ico-shopping' {
       badge?: number | string | badgeTypeObj;
     }
 
-    const Icon: (props: IconProps) => ReactNode;
+    const Icon: (props: IconProps & SvgProps & AdditionalProps) => ReactNode;
 
     export { iconNames };
     export default Icon;
